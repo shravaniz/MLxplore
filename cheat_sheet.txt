@@ -1,11 +1,9 @@
 
-
 create env :
 python -m venv C:\Machine_learning\Environments\ml_xplore
 
 Activate env :
 C:\Machine_learning\Environments\ml_xplore\Scripts\activate.bat
-
 
 
 check pytorch version 
